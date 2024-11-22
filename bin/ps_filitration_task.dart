@@ -10,7 +10,7 @@ void main(List<String> arguments) {
 I have been researching to understand the problem and recognize that there are better solutions,
  such as using ( i * i ). I attempted to use an AI tool for assistance but didn't find it helpful to understand it,
  as I still don't fully grasp the concept and need more time to understand it.
- I want to be honest about my efforts; I have searched extensively,
+ I want to be honest about my efforts; I have searched ,
 including on YouTube, and I did not resort to cheating.
 */
 
